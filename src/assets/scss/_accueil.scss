@@ -1,0 +1,159 @@
+.accueil{
+    min-height:124rem;
+}
+.titrePageAccueil{
+    text-align: center;
+    margin:1rem auto 2rem;
+    font-size: 3.5vw;
+    width:50%;
+    @media screen and (max-width:768px){
+        font-size: 1.5em;
+        margin:1rem auto 2rem;
+        width:50%;
+    }
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.imageAccueil{
+        position:relative;
+        background-image: url(../img/accueil.jpg);
+        width:100vw;
+        height:500px;
+        background-size: 120%;
+        background-position: 30%  50%;
+        background-repeat: no-repeat;
+        margin-bottom:5rem;
+        @media screen and (max-width:768px){
+            margin-bottom: 2rem;
+            height:40vh;
+        
+        }
+    }
+    
+    .btnPlusAccueil{
+        position:absolute;
+        bottom: 60px;
+        @media screen and (max-width:768px){
+            bottom: 20px;
+        }
+        // right: 10%;
+        text-decoration: none;
+        color:$noir;
+        background-color: $blanc;
+        border-radius: 20px;
+        padding:0.2rem 1.5rem 0.2rem 1.5rem;
+        font-weight: bold;
+        font-size:1.2em;
+
+    }
+    .droite{
+        right:10%;
+    }
+    .gauche{
+        left:10%;
+    }
+    .grilleAccueil{
+
+    background-color: $blanc;
+
+    .wrapperAccueil{
+        padding:0;
+        display:grid;
+        grid-gap:0px;
+        grid-template-columns: repeat(2,50%);
+        grid-template-rows: repeat(4,300px);
+        height: 150vh;
+        margin-bottom: 4em;
+
+        .contGrille1Accueil{
+            grid-area: 1/1/2/2;
+                }
+        .contGrille2Accueil{
+            grid-area:1/2/2/3;
+        }
+        .contGrille3Accueil{
+            grid-area:2/1/3/2;
+        }
+        .contGrille4Accueil{
+            grid-area:2/2/3/3;
+        }
+        .contGrille5Accueil{
+            grid-area:3/1/4/2;
+        }
+        .contGrille6Accueil{
+            grid-area:3/2/4/3;
+        }
+        .contGrille7Accueil{
+            grid-area:4/1/5/2;
+        }
+        .contGrille8Accueil{
+            grid-area:4/2/5/3;
+        }
+        @media  screen and (max-width:768px) {
+            grid-template-columns: 100%;
+            grid-template-rows: repeat(8,12.5%);
+            gap:10px;
+            min-height: 350vh;
+            .contGrille1Accueil{
+                grid-area: 1/1/2/2;
+                    }
+            .contGrille2Accueil{
+                grid-area:2/1/3/2;
+            }
+            .contGrille3Accueil{
+                grid-area:4/1/5/2;
+            }
+            .contGrille4Accueil{
+                grid-area:3/1/4/2;
+            }
+            .contGrille5Accueil{
+                grid-area:5/1/6/2;
+            }
+            .contGrille6Accueil{
+                grid-area:6/1/7/2;
+            }
+            .contGrille7Accueil{
+                grid-area:8/1/9/2;
+            }
+            .contGrille8Accueil{
+                grid-area:7/1/8/2;
+            }
+        }
+            .imgAccueil{
+                width:100%;
+                height:100%;
+                object-fit:cover;
+                object-position: center;
+            }
+        
+        .textAccueil{
+            text-align: center;
+            font-family: 'Segoe UI';
+            .accueilTitle{
+                font-size: 1.5vw;
+                font-weight: bold;
+                margin: 1vw 0 1vw;
+            }
+            .accueilPara{
+                margin:0 2vw;
+                font-size:1.2vw;
+                font-weight: bold;
+                color:$gris;
+            }
+            @media screen and (max-width:768px){
+                .accueilTitle{
+                    font-size:4vw;
+                    font-weight: bold;
+                    margin:1vw 0 1vw;
+                }
+                .accueilPara{
+                    font-size:2.5vw;
+                    font-weight: bold;
+                    color:$gris;
+                    margin:0 2vw;
+                }
+            }
+        }
+    }
+}
