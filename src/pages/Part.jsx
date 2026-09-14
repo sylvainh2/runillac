@@ -6,7 +6,7 @@ function Part() {
             <div className="partCont">
                 <h2 className="partTitle">Run'Illac remercie son généreux partenaire</h2>
                 <p className="partId">M. Philippe Verdier, et la société Diro-Atlantique</p>
-                <img className="partImg" src="/img/logo-diro.png" alt="diro" />
+                <img className="partImg" src="./img/logo-diro.png" alt="diro" />
                 {/* <p className="partId">M. Christophe Huard, et le groupe Volkswagen</p> */}
                 {/* <img className="partImg" src="/img/volkswagen.webp" alt="vw" /> */}
             </div>
