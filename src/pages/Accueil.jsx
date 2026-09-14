@@ -4,9 +4,12 @@ import imgAmbiance from "../assets/img/FB_IMG_1665583425942.jpg";
 import imgEntrain from "../assets/img/FB_IMG_1665584768238-2.jpg";
 import imgChall from "../assets/img/FB_IMG_1665583114508.jpg";
 import imgFete from "../assets/img/FB_IMG_1665583242135.jpg";
+import { useEffect } from "react";
 
 function Accueil() {
-
+    useEffect(()=>{
+        window.scrollTo(0,0);
+    },[]);
     return(
      <>
       <main className="accueil">
@@ -53,7 +56,6 @@ function Accueil() {
             </div>
         </section>
     </main>
-    {window.scrollTo(0,0)}
     </>
   );
 }

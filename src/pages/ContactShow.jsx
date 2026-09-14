@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import emailjs from "@emailjs/browser";
-import { useRef, useState } from 'react';
+import { useRef, useState, useEffect } from 'react';
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
@@ -8,10 +8,13 @@ function Contact(){
     const form = useRef();
     const [ wSent, setWSent ] = useState (false);
     const [ wSentError, setWSentError] = useState ("");
+    useEffect(()=>{
+        window.scrollTo(0,0);
+    },[]);
     const handleSubmitJoin = (event)=>{
         event.preventDefault();
-        const serviceID = 'default_service';
-        const templateID = 'template_9qcgitk';
+        const serviceID = 'service_52j4a5b';
+        const templateID = 'template_bal479p';
         const publicKEY = 'I8Ndgl3Khqs3TUvCL';
         let email= event.target.email.value;
         let message = event.target.message.value;
@@ -68,7 +71,6 @@ function Contact(){
                 <Link to={"/"} className='retourButton' href="#">Retour</Link>
             </section>
             <Footer />
-            {window.scrollTo(0,0)}
         </>
     )
 
