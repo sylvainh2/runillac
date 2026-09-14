@@ -46,7 +46,7 @@ function Header() {
           <nav className="navbar navbar-expand-lg bg-light">
               <div className="container-fluid navbar_image">
                 <Link to={"/"} className="navbar-brand" href="#">
-                  <img src="../public/img/ASI-logo-01b.png" alt="logo"/>
+                  <img src={`${process.env.PUBLIC_URL}/img/ASI-logo-01b.png`} alt="logo"/>
                 </Link>
   
               </div>
