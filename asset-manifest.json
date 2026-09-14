@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/runillac/static/css/main.e715853a.css",
-    "main.js": "/runillac/static/js/main.2f29553d.js",
+    "main.js": "/runillac/static/js/main.32f43dd6.js",
     "static/js/453.6cebd484.chunk.js": "/runillac/static/js/453.6cebd484.chunk.js",
     "static/media/accueil.jpg": "/runillac/static/media/accueil.4c808e73f57ce5382f08.jpg",
     "static/media/headerasi.jpg": "/runillac/static/media/headerasi.23f0039f04e84a2263d8.jpg",
     "index.html": "/runillac/index.html",
     "main.e715853a.css.map": "/runillac/static/css/main.e715853a.css.map",
-    "main.2f29553d.js.map": "/runillac/static/js/main.2f29553d.js.map",
+    "main.32f43dd6.js.map": "/runillac/static/js/main.32f43dd6.js.map",
     "453.6cebd484.chunk.js.map": "/runillac/static/js/453.6cebd484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e715853a.css",
-    "static/js/main.2f29553d.js"
+    "static/js/main.32f43dd6.js"
   ]
 }
