@@ -45,7 +45,7 @@
         font-size:1.2em;
         @media screen and (max-width:768px){
             // bottom: 20px;
-            font-size: 0.8rem;
+            font-size: 2.5vw;
         }
         
     }
@@ -58,6 +58,7 @@
     .grilleAccueil{
 
     background-color: $blanc;
+    min-width:360px;
 
     .wrapperAccueil{
         padding:0;
@@ -94,7 +95,7 @@
         }
         @media  screen and (max-width:768px) {
             grid-template-columns: 100%;
-            grid-template-rows: repeat(8,12.5%);
+            grid-template-rows: repeat(8,8fr);
             gap:10px;
             min-height: 350vh;
             .contGrille1Accueil{
