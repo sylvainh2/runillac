@@ -31,7 +31,7 @@ function Savoir() {
 
                     <p>Lors des préparations de certaines courses, des entraînements spécifiques peuvent être proposés, parfois en dehors de Saint Jean d'illac, sur Martignas, le bassin, rive droite, voire même dans le pays basque.</p>
 
-                    <p>Alors à vos basquettes, et venez nous rejoindre!!!</p>
+                    <p>Alors à vos baskets, et venez nous rejoindre!!!</p>
                 </div>
                 <div className="savoirBtnContent"><Link to={"/"} className="savoirBtn">Retour</Link></div>
             </div>
