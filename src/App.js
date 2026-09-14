@@ -9,7 +9,7 @@ import ContactShow from './pages/ContactShow';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/runillac">
         <Routes>
           <Route path="/" element={<Home />}/>
           <Route path="/savoir" element={<SavoirShow />}/>
