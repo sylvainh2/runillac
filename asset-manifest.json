@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/runillac/static/css/main.e715853a.css",
-    "main.js": "/runillac/static/js/main.bd007b56.js",
+    "main.js": "/runillac/static/js/main.cc36312e.js",
     "static/js/453.6cebd484.chunk.js": "/runillac/static/js/453.6cebd484.chunk.js",
     "static/media/accueil.jpg": "/runillac/static/media/accueil.4c808e73f57ce5382f08.jpg",
+    "static/media/ASI-logo-01b.png": "/runillac/static/media/ASI-logo-01b.822938d3dfd507e1e225.png",
     "static/media/headerasi.jpg": "/runillac/static/media/headerasi.23f0039f04e84a2263d8.jpg",
     "index.html": "/runillac/index.html",
     "main.e715853a.css.map": "/runillac/static/css/main.e715853a.css.map",
-    "main.bd007b56.js.map": "/runillac/static/js/main.bd007b56.js.map",
+    "main.cc36312e.js.map": "/runillac/static/js/main.cc36312e.js.map",
     "453.6cebd484.chunk.js.map": "/runillac/static/js/453.6cebd484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e715853a.css",
-    "static/js/main.bd007b56.js"
+    "static/js/main.cc36312e.js"
   ]
 }
