@@ -46,7 +46,7 @@ function Header() {
           <nav className="navbar navbar-expand-lg bg-light">
               <div className="container-fluid navbar_image">
                 <Link to={"/"} className="navbar-brand" href="#">
-                  <img src="https://sylvainh2.github.io/portfolio/img/ASI-logo-01b.png" alt="logo"/>
+                  <img src="/img/ASI-logo-01b.png" alt="logo"/>
                 </Link>
   
               </div>
