@@ -68,6 +68,7 @@ function Contact(){
                 <Link to={"/"} className='retourButton' href="#">Retour</Link>
             </section>
             <Footer />
+            {window.scrollTo(0,0)}
         </>
     )
 
