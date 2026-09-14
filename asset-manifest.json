@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/runillac/static/css/main.87baa431.css",
+    "main.css": "/runillac/static/css/main.0929dd6d.css",
     "main.js": "/runillac/static/js/main.e7346af0.js",
     "static/js/453.6cebd484.chunk.js": "/runillac/static/js/453.6cebd484.chunk.js",
     "static/media/BULLETIN ADHESION 2026 2027.pdf": "/runillac/static/media/BULLETIN ADHESION 2026 2027.7d0bec6c08ee84a7c98b.pdf",
@@ -14,12 +14,12 @@
     "static/media/logo-diro.png": "/runillac/static/media/logo-diro.1e127f4371771dd583ed.png",
     "static/media/headerasi.jpg": "/runillac/static/media/headerasi.23f0039f04e84a2263d8.jpg",
     "index.html": "/runillac/index.html",
-    "main.87baa431.css.map": "/runillac/static/css/main.87baa431.css.map",
+    "main.0929dd6d.css.map": "/runillac/static/css/main.0929dd6d.css.map",
     "main.e7346af0.js.map": "/runillac/static/js/main.e7346af0.js.map",
     "453.6cebd484.chunk.js.map": "/runillac/static/js/453.6cebd484.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87baa431.css",
+    "static/css/main.0929dd6d.css",
     "static/js/main.e7346af0.js"
   ]
 }
