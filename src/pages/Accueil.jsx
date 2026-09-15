@@ -18,7 +18,7 @@ function Accueil() {
             <div className="container">
                 <div className="row col-md-12">
                     <div className="imageAccueil">
-                        <a href={bulletin} className="btnPlusAccueil gauche" target="_blank" rel="noreferrer">Bulletin d'ahésion</a>
+                        <a href={bulletin} className="btnPlusAccueil gauche" target="_blank" rel="noreferrer">Bulletin d'adhésion</a>
                         <Link to={"/savoir"} className="btnPlusAccueil droite" href="#">En savoir +</Link>
                     </div>
                 </div>
