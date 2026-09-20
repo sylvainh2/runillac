@@ -53,9 +53,10 @@ function Contact(){
                 {wSent && <div className="sendWindow absCont">Message Envoyé</div>}
                 {wSentError && <div className="sendWindow absCont">Erreur d'envoi:{wSentError}</div>}
                 <div className="contactCont">
-                    <h2 id="contactTitle">Contact</h2>
+                    <h2 id="contactTitle">CONTACT</h2>
                     <h3 className="contactH3">Présidente: Rachel Boterel</h3>
                     <h3 className="contactH3">Email: rachel.boterel@orange.fr</h3>
+                    <h3 className="contactH3">Tel: 06 74 44 27 78</h3>
                 </div>
                 <form ref={form} className="mailForm" onSubmit={handleSubmitJoin}>
                     <label className="inputMail">email:</label>

@@ -22,12 +22,13 @@ function Savoir() {
                     </p>
                     <ul className="SavoirList">
                         <li>Mardi & jeudi séances à 18h00 et 19h20. (10/12 kms)</li>
+                        <li>Jeudi 18h00 groupe run'progress (personne en reprise ou en début de progression réalisant déja les prérequis)</li>
                         <li>Samedi à 8h30: sortie longue (15 / 20 kms).</li>
                         <li>Samedi à 9h00: séance traditionnelle. (10/12 kms)</li>
                     </ul>
                     <p>Les entraînements durent en général entre 1h et 1h15 pour les sorties traditionnelles et entre 1h30 et 2h00 pour les sorties longues.</p>
 
-                    <p>Le club est ouvert à tout le monde, les prérequis sont de pouvoir courir 40 min minimum.</p>
+                    <p>Le club est ouvert à tout le monde, les prérequis sont de pouvoir courir 5km en 40 min minimum.</p>
 
                     <p>Lors des préparations de certaines courses, des entraînements spécifiques peuvent être proposés, parfois en dehors de Saint Jean d'illac, sur Martignas, le bassin, rive droite, voire même dans le pays basque.</p>
 
