@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/runillac/static/css/main.502a1318.css",
-    "main.js": "/runillac/static/js/main.8dbbcafa.js",
+    "main.js": "/runillac/static/js/main.4bb39276.js",
     "static/js/453.6cebd484.chunk.js": "/runillac/static/js/453.6cebd484.chunk.js",
     "static/media/BULLETIN ADHESION 2026 2027.pdf": "/runillac/static/media/BULLETIN ADHESION 2026 2027.7d0bec6c08ee84a7c98b.pdf",
     "static/media/FB_IMG_1665584768238-2.jpg": "/runillac/static/media/FB_IMG_1665584768238-2.e4ff5eb69d202427648f.jpg",
@@ -10,16 +10,16 @@
     "static/media/ASI-logo-01b.png": "/runillac/static/media/ASI-logo-01b.822938d3dfd507e1e225.png",
     "static/media/FB_IMG_1665583242135.jpg": "/runillac/static/media/FB_IMG_1665583242135.97a49b6dc60595f68036.jpg",
     "static/media/FB_IMG_1665583114508.jpg": "/runillac/static/media/FB_IMG_1665583114508.585e33b29ad4826ad0f5.jpg",
-    "static/media/RunIllac_CGU.pdf": "/runillac/static/media/RunIllac_CGU.45fa8bba671e7229ff1b.pdf",
+    "static/media/RunIllac_CGU.pdf": "/runillac/static/media/RunIllac_CGU.6e9b9e74d24325883da4.pdf",
     "static/media/logo-diro.png": "/runillac/static/media/logo-diro.1e127f4371771dd583ed.png",
     "static/media/headerasi.jpg": "/runillac/static/media/headerasi.23f0039f04e84a2263d8.jpg",
     "index.html": "/runillac/index.html",
     "main.502a1318.css.map": "/runillac/static/css/main.502a1318.css.map",
-    "main.8dbbcafa.js.map": "/runillac/static/js/main.8dbbcafa.js.map",
+    "main.4bb39276.js.map": "/runillac/static/js/main.4bb39276.js.map",
     "453.6cebd484.chunk.js.map": "/runillac/static/js/453.6cebd484.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.502a1318.css",
-    "static/js/main.8dbbcafa.js"
+    "static/js/main.4bb39276.js"
   ]
 }
