@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/runillac/static/css/main.28a5c957.css",
-    "main.js": "/runillac/static/js/main.4bb39276.js",
+    "main.css": "/runillac/static/css/main.4a58d7bb.css",
+    "main.js": "/runillac/static/js/main.6f1fe1bc.js",
     "static/js/453.6cebd484.chunk.js": "/runillac/static/js/453.6cebd484.chunk.js",
     "static/media/BULLETIN ADHESION 2026 2027.pdf": "/runillac/static/media/BULLETIN ADHESION 2026 2027.7d0bec6c08ee84a7c98b.pdf",
+    "static/media/20260922_193033.jpg": "/runillac/static/media/20260922_193033.16adbd576ea367db334f.jpg",
     "static/media/FB_IMG_1665584768238-2.jpg": "/runillac/static/media/FB_IMG_1665584768238-2.e4ff5eb69d202427648f.jpg",
-    "static/media/accueil.jpg": "/runillac/static/media/accueil.4c808e73f57ce5382f08.jpg",
     "static/media/FB_IMG_1665583425942.jpg": "/runillac/static/media/FB_IMG_1665583425942.1a6a8388c785196b5103.jpg",
     "static/media/ASI-logo-01b.png": "/runillac/static/media/ASI-logo-01b.822938d3dfd507e1e225.png",
     "static/media/FB_IMG_1665583242135.jpg": "/runillac/static/media/FB_IMG_1665583242135.97a49b6dc60595f68036.jpg",
@@ -14,12 +14,12 @@
     "static/media/logo-diro.png": "/runillac/static/media/logo-diro.1e127f4371771dd583ed.png",
     "static/media/headerasi.jpg": "/runillac/static/media/headerasi.23f0039f04e84a2263d8.jpg",
     "index.html": "/runillac/index.html",
-    "main.28a5c957.css.map": "/runillac/static/css/main.28a5c957.css.map",
-    "main.4bb39276.js.map": "/runillac/static/js/main.4bb39276.js.map",
+    "main.4a58d7bb.css.map": "/runillac/static/css/main.4a58d7bb.css.map",
+    "main.6f1fe1bc.js.map": "/runillac/static/js/main.6f1fe1bc.js.map",
     "453.6cebd484.chunk.js.map": "/runillac/static/js/453.6cebd484.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28a5c957.css",
-    "static/js/main.4bb39276.js"
+    "static/css/main.4a58d7bb.css",
+    "static/js/main.6f1fe1bc.js"
   ]
 }
