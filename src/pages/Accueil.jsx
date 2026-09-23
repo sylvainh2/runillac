@@ -14,7 +14,7 @@ function Accueil() {
      <>
       <main className="accueil">
         <section>
-            <h1 className="titrePageAccueil">bienvenue sur le site de Run'illac</h1>
+        <h1 className="titrePageAccueil">Run'illac – Club de course à pied de Saint-Jean-d'Illac</h1>
             <div className="container">
                 <div className="row col-md-12">
                     <div className="imageAccueil">
@@ -28,19 +28,19 @@ function Accueil() {
             <div className="container">
                 <div className="row col-md-12">
                     <div className="wrapperAccueil">
-                            <img className="contGrille1Accueil imgAccueil" src={imgAmbiance} alt="ambiance"/>
+                            <img className="contGrille1Accueil imgAccueil" src={imgAmbiance} alt="Coureurs de Run'illac à Saint-Jean-d'Illac"/>
                         
                         <article className="textAccueil contGrille2Accueil">
-                            <h2 className="accueilTitle">Motivation, Bonne ambiance, Entraide.</h2>
-                            <p className="accueilPara">Pas envie de courir seul, baisse de motivation!!</p>
-                            <p className="accueilPara">Venez rejoindre un groupe de coureurs motivés, ambiancés, qui saura vous redonner l'envie de courir, progresser, où il y a toujours quelqu'un pour vous accompagner, vous tirer, vous encourager dans la bonne humeur.</p>
+                            <h2 className="accueilTitle">Un club de course à pied convivial à Saint-Jean-d'Illac</h2>
+                            <p className="accueilPara">Pas envie de courir seul ou besoin de retrouver la motivation ?</p>
+                            <p className="accueilPara">Venez rejoindre Run'illac, le club de course à pied de Saint-Jean-d'Illac. Vous y trouverez un groupe de coureurs motivés et une ambiance conviviale, avec de l'entraide et des encouragements pour progresser à votre rythme.</p>
                         </article>
                         <article className="textAccueil contGrille3Accueil">
                             <h2 className="accueilTitle">Des entraînements motivants, variés, supervisés.</h2>
                             <p className="accueilPara">Nos entraînements sont dispensés à des horaires fixes, sur des lieux définis, par des entraineurs bénévoles, toujours dans la bonne humeur et le respect de chacun. Ils sont adaptés dans la mesure du possible aux attentes et ambitions de chacun.</p>
                         </article>
-                        <img className="contGrille4Accueil imgAccueil" src={imgEntrain} alt="entrainements"/>
-                        <img className="contGrille5Accueil imgAccueil" src={imgChall} alt="challenges"/>
+                        <img className="contGrille4Accueil imgAccueil" src={imgEntrain} alt="Entraînement du club de course à pied Run'illac"/>
+                        <img className="contGrille5Accueil imgAccueil" src={imgChall} alt="Coureurs de Run'illac participant à une course"/>
                         <article className="textAccueil contGrille6Accueil">
                             <h2 className="accueilTitle">Challenges, courses suivis par le club.</h2>
                             <p className="accueilPara">De nombreux coureurs du club, participent à des courses ou challenges, souvent dans le département, afin de garder une grande motivation et s'améliorer. Mais ils participent aussi à de nombreuses courses hors du département, allant même aux quatres coins de l'hexagone, mais aussi à l'étranger, afin de découvrir de nouveaux et magnifiques paysages, ou de se challenger davantage.</p>
@@ -50,7 +50,7 @@ function Accueil() {
                             <p className="accueilPara">Les entraînements, les courses c'est bien, mais il faut aussi savoir décompresser et resserrer les liens entre chacun. Pour cela, le club organise des soirées et sorties extra sportives en famille.
                                 On ne refuse jamais non plus un petit apéritif, petit-déjeuner après les entraînements afin de fêter anniversaires ou autres évènements!</p>
                         </article>
-                        <img className="contGrille8Accueil imgAccueil" src={imgFete} alt="fete"/>
+                        <img className="contGrille8Accueil imgAccueil" src={imgFete} alt="Moment convivial entre les membres de Run'illac"/>
                     </div>
                 </div>
             </div>

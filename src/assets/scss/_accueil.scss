@@ -4,6 +4,7 @@
 .titrePageAccueil{
     text-align: center;
     margin:1rem auto 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 3.5vw;
     width:50%;
     @media screen and (max-width:768px){
@@ -17,7 +18,7 @@
 
 .imageAccueil{
         position:relative;
-        background-image: url(../img/accueil.jpg);
+        background-image: url(../img/20260922_193033.jpg);
         width:100vw;
         height:500px;
         background-size: 120%;
