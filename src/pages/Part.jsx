@@ -5,6 +5,7 @@ function Part() {
     return(
         <>
             <div className="partCont">
+                <h1>Partenaire du club Run'illac</h1>
                 <h2 className="partTitle">Run'Illac remercie son généreux partenaire</h2>
                 <p className="partId">M. Philippe Verdier, et la société Diro-Atlantique</p>
                 <img className="partImg" src={logoDiro} alt="diro" />

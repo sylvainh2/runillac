@@ -13,7 +13,11 @@ function Header() {
                 <Link to={"/"} className="navbar-brand" href="#">
                   <img src={logoASI} alt="logo"/>
                 </Link>
-  
+                {/* <div className="collapse navbar-collapse" id="navbarNav"> */}
+                    {/* <li className="nav-item ms-lg-auto "> */}
+                      <h1 className="title-nav">Run'illac</h1>
+                    {/* </li> */}
+                {/* </div> */}
               </div>
             </nav>
         </header>

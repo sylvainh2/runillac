@@ -11,7 +11,9 @@ function Savoir() {
 
         <>
             <div className="savoirMainContent">
-                <h2 className="savoirTitre">A propos</h2>
+                <h1 className="savoirTitre">
+                    Run'illac – Club de course à pied à Saint-Jean-d'Illac
+                </h1>
                 <div className="savoirContent">
                     <p>Voici maintenant un peu plus de 30 ans que naissait le club de course pédestre de Saint jean d'illac, créé par une poignée de passionnés de course à pied.</p>
 

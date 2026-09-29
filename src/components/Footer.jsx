@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import imageFB from "../assets/img/facebook.png";
 import logoASI from "../assets/img/ASI-logo-01b.png";
+import conditions from "../assets/img/RunIllac_CGU.pdf";
 
 function Footer(){
     return (
@@ -11,7 +12,7 @@ function Footer(){
                         <li className="footerli"><a className="footera" target="_blanck" href="https://www.facebook.com/groups/1219553618160337/"><img src={imageFB} alt="facebook" className="imgFB"/></a></li>
                         <div className="foot">
                             <li className="footerli"><Link to="/contact" className="footera" href="#">contact</Link> </li>
-                            <li className="footerli"><a href={`${process.env.PUBLIC_URL}/img/RunIllac_CGU.pdf`} className="footera" target="_blank" rel="noreferrer">conditions générales</a> </li>
+                            <li className="footerli"><a href={conditions} className="footera" target="_blank" rel="noreferrer">conditions générales</a> </li>
                             <li className="footerli"><Link to="/partenaires" className="footera">partenaires</Link> </li>
                         </div>
                         <li className="footerli"><Link to="/" className="footera"><img className="logo" src={logoASI} alt="logo"/> </Link> </li>
