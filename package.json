@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "copy build\\index.html build\\404.html",
+    "postbuild": "node scripts/generate-routes.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "sass": "sass -w src/assets/scss:src/assets/css",
