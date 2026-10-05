@@ -4,6 +4,7 @@ import imgAmbiance from "../assets/img/FB_IMG_1665583425942.jpg";
 import imgEntrain from "../assets/img/FB_IMG_1665584768238-2.jpg";
 import imgChall from "../assets/img/FB_IMG_1665583114508.jpg";
 import imgFete from "../assets/img/FB_IMG_1665583242135.jpg";
+import accueil from "../assets/img/accueil3.jpg"
 import { useEffect } from "react";
 
 function Accueil() {
@@ -18,6 +19,7 @@ function Accueil() {
             <div className="container">
                 <div className="row col-md-12">
                     <div className="imageAccueil">
+                        <img className="imgPrincipale" src={accueil} alt="accueil" />
                         <a href={bulletin} className="btnPlusAccueil gauche" target="_blank" rel="noreferrer">Bulletin d'adhésion</a>
                         <Link to={"/savoir"} className="btnPlusAccueil droite" href="#">En savoir +</Link>
                     </div>

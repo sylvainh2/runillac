@@ -18,23 +18,15 @@
 
 .imageAccueil{
         position:relative;
-        background-image: url(../img/accueil2.jpg);
-        width:100vw;
-        height:500px;
-        background-size: 120%;
-        background-position: 30%  50%;
-        background-repeat: no-repeat;
         margin-bottom:5rem;
         @media screen and (max-width:768px){
-            margin-bottom: 2rem;
-            height:40vh;
-        
+            margin-bottom: 2rem;        
         }
     }
     
     .btnPlusAccueil{
         position:absolute;
-        bottom: 60px;
+        bottom: 10%;
         // right: 10%;
         text-decoration: none;
         color:$noir;
@@ -160,4 +152,7 @@
             }
         }
     }
+}
+.imgPrincipale{
+    width:100%;
 }
