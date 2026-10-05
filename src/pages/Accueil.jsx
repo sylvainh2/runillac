@@ -19,7 +19,7 @@ function Accueil() {
             <div className="container">
                 <div className="row col-md-12">
                     <div className="imageAccueil">
-                        <img className="imgPrincipale" src={accueil} alt="accueil" />
+                        <img className="imgPrincipale" src={accueil} alt="run'illac-club de course a pied de saint jean d'illac" />
                         <a href={bulletin} className="btnPlusAccueil gauche" target="_blank" rel="noreferrer">Bulletin d'adhésion</a>
                         <Link to={"/savoir"} className="btnPlusAccueil droite" href="#">En savoir +</Link>
                     </div>
