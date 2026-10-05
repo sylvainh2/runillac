@@ -24,7 +24,7 @@ function Savoir() {
                     </p>
                     <ul className="SavoirList">
                         <li>Mardi & jeudi séances à 18h00 et 19h20. (10/12 kms)</li>
-                        <li>Jeudi 18h00 groupe run'progress (personne en reprise ou en début de progression réalisant déja les prérequis)</li>
+                        <li>Jeudi 18h00 groupe run'progress (personne en reprise ou en début de progression réalisant déjà les prérequis)</li>
                         <li>Samedi à 8h30: sortie longue (15 / 20 kms).</li>
                         <li>Samedi à 9h00: séance traditionnelle. (10/12 kms)</li>
                     </ul>
